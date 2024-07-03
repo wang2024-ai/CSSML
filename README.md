@@ -1,1 +1,1 @@
-# CSSML
+A Conflict-aware Semi-supervised Mutual Learning Framework is proposed by us. extensive experiments have already been performanced the proposed method, which turns out to yield improved segmentation results. Our code will come soon! 
